@@ -1,0 +1,15 @@
+baseurl = "http://localhost/"
+languageCode = "en-us"
+title = "Footprints"
+theme = "cocoa-eh"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "A reflexion log about my work"
+highlightjs = true
+logofile = "img/logo.png"
+lang = "en"
+github = "https://github.com/jdassonvil"
+linkedin = "https://fr.linkedin.com/in/jérôme-dassonville-08540258"
+twitter = "https://twitter.com/jdassonvil"
